@@ -4,9 +4,9 @@ This repository contains gender prediction based on dataset contains voice frequ
 </p>
 <h4>Algorithms used </h4>
 <p>
-  <b>1.Decision Tree Classifier 
-   <b>2.Random Forest Classifier 
-    <b>3.KNN Classifier
-    <b>4.Logistic Regression
-    <b>5.SVM Classifier
+  <b>1.Decision Tree Classifier <br>
+   <b>2.Random Forest Classifier <br>
+    <b>3.KNN Classifier<br>
+    <b>4.Logistic Regression<br>
+    <b>5.SVM Classifier<br>
 </p>
