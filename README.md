@@ -10,3 +10,4 @@ This repository contains gender prediction based on dataset contains voice frequ
     <b>4.Logistic Regression<br>
     <b>5.SVM Classifier<br>
 </p>
+      <h4>How to use ?</h4>
