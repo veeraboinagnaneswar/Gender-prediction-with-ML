@@ -13,6 +13,6 @@ This repository contains gender prediction based on dataset contains voice frequ
       <h4>How to use ?</h4>
       <p>
 <b>1.Install the files<br>
-  <b>2.Run the fle in Jupyter notes 
-    <b>3.The dataset and the python file shoud be in same folder 
+  <b>2.Run the fle in Jupyter notes <br>
+    <b>3.The dataset and the python file shoud be in same folder <br>
       </p>
